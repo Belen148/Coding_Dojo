@@ -1,0 +1,33 @@
+.buttonsearch,.buttonplus,.buttonacc{
+    display: block;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
+
+.buttonsearch{
+    background-color:gainsboro;
+    color:cadetblue;
+    font-weight: 700;
+    width: 100px;
+    border: 2px solid cadetblue;
+    border-radius: 8px;
+}
+
+.buttonplus{
+    background-color:deepskyblue ;
+    color: white;
+    width: 38px;
+    border-radius: 50%;
+    border: 2px solid deepskyblue;
+}
+
+.buttonacc{
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    width: 120px;
+    box-shadow: 3px 3px black;
+
+}
+
