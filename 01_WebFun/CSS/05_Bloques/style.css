@@ -1,0 +1,46 @@
+h{
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+    background-color:white;
+    width: 250px;
+    height: 280px;
+    margin-bottom: 10px;
+}
+
+.container{
+    width: 900px;
+    height: 350px;
+    background-color: lightblue;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bloque{
+    width: 900px;
+    height: 350px;
+    background-color: lightpink;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+
+.box{
+    width: 900px;
+    height: 350px;
+    background-color: lightgrey;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.clas{
+    width: 500;
+    height: 300;
+}
