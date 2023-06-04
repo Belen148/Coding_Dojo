@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', monospace;
+}
+.nav{
+    width: 900px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: lightseagreen;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', monospace;
+    border: none;
+    box-shadow: 3px 3px  black;
+    font-size: 15px;
+
+}
