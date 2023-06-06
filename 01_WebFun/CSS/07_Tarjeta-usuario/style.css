@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-decoration: none;
+    font-style: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 700px;
+    height: 400px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:auto;
+    margin-top: 50px;
+}
+
+.info-user{
+    background-color: lightgray;
+    width: 600px;
+    height: 350px;
+    border: 1px solid gray;
+    overflow: hidden;
+}
+
+.top{
+    width: 600px;
+    height:100px;
+    background-color: lightseagreen;
+}
+
+.info-card{
+    padding: 20px;
+    margin: 10px 10px;
+    }
+
+.profile{
+    border-radius: 50%;
+    background-color: white;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 5px;
+}
+
+.icon{
+    height: 20px ;
+}
+
